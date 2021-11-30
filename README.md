@@ -22,6 +22,8 @@
 <br>
 
 ## 💾 Triplan DB구성도 및 흐름
+![DB거의최종](https://user-images.githubusercontent.com/88026773/144074381-d990fe15-d06d-4600-99bc-10b398d0a59e.PNG)
+![흐름_1119](https://user-images.githubusercontent.com/88026773/144074483-6344ffc6-d26b-4465-8b20-d6f3baebf541.PNG)
 
 <br>
 
